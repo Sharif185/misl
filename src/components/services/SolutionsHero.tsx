@@ -88,7 +88,7 @@ export function SolutionsHero() {
                         whileHover={{ color: '#CCD6F6' }}
                         className="text-lg leading-relaxed text-[#8892B0] transition-colors duration-300"
                     >
-                        We don't believe in one-size-fits-all. Every industry has its own
+                        We don&apos;t believe in one-size-fits-all. Every industry has its own
                         constraints, regulations, and opportunities — our solutions are built
                         with that context baked in from day one.
                     </motion.p>
