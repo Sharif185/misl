@@ -1,7 +1,6 @@
 import { Nav } from '@/components/common/Nav';
 import { Hero } from '@/components/home/Hero';
 import { Footer } from '@/components/common/Footer';
-import { PageIllustration } from '@/components/home/PageIllustration';
 
 export default function HomePage() {
     return (

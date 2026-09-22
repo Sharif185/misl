@@ -71,7 +71,7 @@ export default function SolutionsPage() {
                             Our Industry Verticals
                         </h2>
                         <p className="text-[#8892B0] max-w-2xl">
-                            Four sectors where we've built deep expertise and delivered
+                            Four sectors where we&apos;ve built deep expertise and delivered
                             production-grade solutions for real clients.
                         </p>
                     </div>
